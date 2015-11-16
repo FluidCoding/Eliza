@@ -1,0 +1,18 @@
+{
+  "short_name": "Eliza",
+  "name": "Through the wormhole with Eliza",
+  "icons": [
+    {
+      "src": "ic_launcher_48.png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "ic_launcher_96.png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "ic_launcher_192.png",
+      "sizes": "192x192"
+    }
+  ]
+}
